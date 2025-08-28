@@ -46,4 +46,10 @@ Managing resources (closing sockets/streams properly)
 
 OUTPUT:
 
+<img width="1587" height="329" alt="Image" src="https://github.com/user-attachments/assets/1b5a85de-4ec1-4fb8-a86b-89c973260c4f" />
 
+<img width="1584" height="319" alt="Image" src="https://github.com/user-attachments/assets/6ac48a86-f441-458d-8988-592744a8be82" />
+
+<img width="1593" height="319" alt="Image" src="https://github.com/user-attachments/assets/516a39cc-a648-43bb-9a5b-14a0ab8210b7" />
+
+<img width="1589" height="320" alt="Image" src="https://github.com/user-attachments/assets/c7798a6a-3bd8-4daf-b59b-b1b271c12242" />
