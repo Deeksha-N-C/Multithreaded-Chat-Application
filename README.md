@@ -43,3 +43,12 @@ Handling multiple clients with threads
 Using buffered streams for efficient I/O
 Designing interactive console-based apps
 Managing resources (closing sockets/streams properly)
+
+OUTPUT:
+<img width="576" height="130" alt="Image" src="https://github.com/user-attachments/assets/fbf5ae73-4b8b-4214-b675-751ee66832f6" />
+
+<img width="724" height="288" alt="Image" src="https://github.com/user-attachments/assets/a2a47c67-8e2a-4395-a360-6d97944c073f" />
+
+<img width="715" height="233" alt="Image" src="https://github.com/user-attachments/assets/652ddb40-4e2a-422e-bc7a-4be6a46e6a92" />
+
+<img width="727" height="222" alt="Image" src="https://github.com/user-attachments/assets/9ea1eca7-cb4c-4b55-88bd-7a46b8bc7525" />
